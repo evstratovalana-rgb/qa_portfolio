@@ -34,7 +34,7 @@
 - Использование API для формирования тестовых данных
 
 ## Контакты и ссылки
-*   ** Резюме:** [https://krasnodar.hh.ru/resume/7f73a787ff0f41f43f0039ed1f6f46426b6b64](https://krasnodar.hh.ru/resume/7f73a787ff0f41f43f0039ed1f6f46426b6b64)
-*   ** Telegram:** [@EvstratovaSvetlana](https://t.me/EvstratovaSvetlana)
-*   ** Email:** evstratova.lana@gmail.com
+*   **Резюме:** [https://krasnodar.hh.ru/resume/7f73a787ff0f41f43f0039ed1f6f46426b6b64](https://krasnodar.hh.ru/resume/7f73a787ff0f41f43f0039ed1f6f46426b6b64)
+*   **Telegram:** [@EvstratovaSvetlana](https://t.me/EvstratovaSvetlana)
+*   **Email:** evstratova.lana@gmail.com
   
